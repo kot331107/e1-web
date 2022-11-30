@@ -108,6 +108,13 @@ img {
   margin-top: -1.5625rem;
 }
 
+.cropped-image-404 {
+  margin-top: -30%;
+  margin-left: 10%;
+  -webkit-clip-path: circle(30% at 40% 60%);
+  clip-path: circle(30% at 40% 60%);
+}
+
 /* Comments */
 
 .disqus-comments {
