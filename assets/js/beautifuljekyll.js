@@ -16,6 +16,7 @@ var BeautifulJekyllJS = {
       }
     });
 
+    localStorage.setItem("bj-dark-mode", "true");
     $("#change-skin").on("click", function () {
       $("body").toggleClass("page-dark-mode");
       localStorage.setItem(
