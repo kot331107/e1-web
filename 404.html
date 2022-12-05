@@ -7,10 +7,10 @@ permalink: /404.html
 <div class="text-center">
   <b>Увы, ничего не найдено.</b>
   <br />
-  <b>Попробуйте поискать <a href="index.html">здесь</a></b>
+  <b>Попробуйте поискать <a href="{{ 'index.html' | relative_url }}">здесь</a></b>
   <br />
 
-  <a href="index.html">
+  <a href="{{ 'index.html' | relative_url }}">
     <img
       src="{{ 'assets/img/img404.jpg' | relative_url }}"
       alt="404 error"

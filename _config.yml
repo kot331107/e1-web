@@ -29,11 +29,7 @@ skin_switch: true
 ###############################################
 
 navbar-links:
-  # About Me: "aboutme"
-  # Resources:
-  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #   - Learn markdown: "https://www.markdowntutorial.com/"
-  # Author's home: "https://deanattali.com"
+  Фото: "photoes"
 
 ################
 # --- Logo --- #
@@ -114,7 +110,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
 # edit_page_button: true
@@ -125,7 +121,7 @@ post_search: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "yoga,йога,физкультура,оздоровительная,здоровье,позвоночник,осанка,санкт-петербург,спб"
+keywords: "йога,физкультура,оздоровительная,здоровье,позвоночник,осанка,санкт-петербург,спб,yoga"
 
 ######################################
 # --- Colours / background image --- #
@@ -286,7 +282,8 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
+  - main.md
+  - photo.md
   - docs/
 
 plugins:
