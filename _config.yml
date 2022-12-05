@@ -10,16 +10,19 @@
 ############################
 
 # Name of website
-title: Физкультура Есенина 1
+title: Физкультура Е1
 
 # Your name to show in the footer
-author: Заряжено любовью
+author: Заряжено энергией
 
 # Remove theme ads
 remove-ads: true
 
 # Allows dark mode switcher
 skin_switch: true
+
+# Forces locale
+# locale: ru-RU
 
 ###############################################
 # --- List of links in the navigation bar --- #
