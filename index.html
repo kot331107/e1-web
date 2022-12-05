@@ -1,5 +1,8 @@
 ---
 layout: home
-title: My website
-subtitle: This is where I will tell my friends way
+cover-img: /assets/img/E1_sign_long.png
+share-img: /assets/img/E1_sign_long.png
 ---
+
+{% capture my_include %}{% include_relative main.md %}{% endcapture %}
+{{ my_include | markdownify }}

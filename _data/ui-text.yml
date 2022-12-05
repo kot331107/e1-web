@@ -15,6 +15,7 @@ en: &DEFAULT_EN
   comment_btn_submitted      : "Submitted"
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
+  search_hint               : "Search"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -39,6 +40,7 @@ es: &DEFAULT_ES
   comment_btn_submitted      : "Enviado"
   comment_success_msg        : "Gracias por su comentario!, Este se visualizará en el sitio una vez haya sido aprobado"
   comment_error_msg          : "Lo sentimos, ha ocurrido un error al enviar su comentario. Por favor asegurese que todos los campos han sido diligenciados e intente de nuevo"
+  search_hint               : "Búsqueda"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -248,6 +250,7 @@ ru: &DEFAULT_RU
   comment_btn_submitted      : "Отправлено"
   comment_success_msg        : "Спасибо за Ваш комментарий! Он будет опубликован на сайте после проверки."
   comment_error_msg          : "К сожалению, произошла ошибка с отправкой комментария. Пожалуйста, убедитесь, что все обязательные поля заполнены и попытайтесь снова."
+  search_hint               : "Поиск"
 ru-RU:
   <<: *DEFAULT_RU
 
