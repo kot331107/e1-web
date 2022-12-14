@@ -205,6 +205,7 @@ img {
 .navbar-toggler {
   font-size: 1rem;
   margin: 0.5rem 0;
+  margin-right: 3.5rem;
 }
 .navbar-custom .navbar-toggler:focus,
 .navbar-custom .navbar-toggler:hover {
@@ -737,7 +738,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 3.125rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;

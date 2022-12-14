@@ -20,7 +20,7 @@
 
 ### Когда?
 
-Запись на занятия в [Telegram](https://t.me/{{ site.social-network-links.telegram }})
+Запись на занятия в [Telegram]({{ site.social-network-links.telegram-chat }})
 
 | Понедельник | 12:00 - 13:00 | 13:15 - 14:15 |
 | Среда | 15:00 - 16:00 |

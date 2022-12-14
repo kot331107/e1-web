@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "html-proofer"
-
 gemspec
 
+gem "html-proofer"
+gem "jekyll-gallery-generator"
