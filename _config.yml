@@ -303,6 +303,7 @@ plugins:
 
 gallery:
   dir: photos               # Path to the gallery
+  lightbox: true
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
   title: "Фото"           # Title for gallery index page
   title_prefix: "Фото: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
@@ -313,6 +314,9 @@ gallery:
     y: 400                  # max height of thumbnails (in pixels)
   # The following options are for individual galleries.
   galleries:
+    gym photo:
+      best_image: DSC05356.jpg
+      name: "Наш зал"
     archive:
       best_image: ---------------.jpg
       name: "Асаны от Марины Михеевой"

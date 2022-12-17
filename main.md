@@ -24,3 +24,7 @@
 
 | Понедельник | 12:00 - 13:00 | 13:15 - 14:15 |
 | Среда | 15:00 - 16:00 |
+
+### Наши фото
+
+[![Наши фото]({{ 'photos/gym photo/DSC05356.jpg' | relative_url }})]({{ 'photos/gym photo/' | relative_url }})
