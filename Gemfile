@@ -5,4 +5,6 @@ source "https://rubygems.org"
 gemspec
 
 gem "html-proofer"
-gem "jekyll-gallery-generator"
+
+# uncomment to build locally with gallery 
+# gem "jekyll-gallery-generator"
