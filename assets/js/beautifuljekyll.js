@@ -16,8 +16,8 @@ var BeautifulJekyllJS = {
       }
     });
 
-    if (localStorage.getItem("bj-dark-mode") === null) {
-      localStorage.setItem("bj-dark-mode", "true");
+    if (localStorage.getItem("bj-light-mode") === null) {
+      localStorage.setItem("bj-light-mode", "true");
     }
     $("#change-skin").on("click", function () {
       $("body").toggleClass("page-dark-mode");
